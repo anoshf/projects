@@ -1,0 +1,89 @@
+{
+    "Dates": {
+        "OutboundDates": [
+            {
+                "PartialDate": "2019-12-24",
+                "QuoteIds": [
+                    1,
+                    2
+                ],
+                "Price": 258.0,
+                "QuoteDateTime": "2019-12-18T18:32:00"
+            }
+        ]
+    },
+    "Quotes": [
+        {
+            "QuoteId": 1,
+            "MinPrice": 258.0,
+            "Direct": false,
+            "OutboundLeg": {
+                "CarrierIds": [
+                    1368
+                ],
+                "OriginId": 65368,
+                "DestinationId": 81908,
+                "DepartureDate": "2019-12-24T00:00:00"
+            },
+            "QuoteDateTime": "2019-12-18T18:32:00"
+        },
+        {
+            "QuoteId": 2,
+            "MinPrice": 471.0,
+            "Direct": true,
+            "OutboundLeg": {
+                "CarrierIds": [
+                    851
+                ],
+                "OriginId": 65368,
+                "DestinationId": 81908,
+                "DepartureDate": "2019-12-24T00:00:00"
+            },
+            "QuoteDateTime": "2019-12-18T18:32:00"
+        }
+    ],
+    "Places": [
+        {
+            "PlaceId": 65368,
+            "IataCode": "LAX",
+            "Name": "Los Angeles International",
+            "Type": "Station",
+            "SkyscannerCode": "LAX",
+            "CityName": "Los Angeles",
+            "CityId": "LAXA",
+            "CountryName": "United States"
+        },
+        {
+            "PlaceId": 81908,
+            "IataCode": "SJD",
+            "Name": "San Jose Cabo",
+            "Type": "Station",
+            "SkyscannerCode": "SJD",
+            "CityName": "San Jose Cabo",
+            "CityId": "SJDA",
+            "CountryName": "Mexico"
+        }
+    ],
+    "Carriers": [
+        {
+            "CarrierId": 851,
+            "Name": "Alaska Airlines"
+        },
+        {
+            "CarrierId": 1368,
+            "Name": "Lufthansa"
+        }
+    ],
+    "Currencies": [
+        {
+            "Code": "USD",
+            "Symbol": "$",
+            "ThousandsSeparator": ",",
+            "DecimalSeparator": ".",
+            "SymbolOnLeft": true,
+            "SpaceBetweenAmountAndSymbol": false,
+            "RoundingCoefficient": 0,
+            "DecimalDigits": 2
+        }
+    ]
+}

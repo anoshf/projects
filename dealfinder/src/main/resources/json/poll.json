@@ -1,0 +1,5642 @@
+{
+  "SessionKey": "df928f77-9142-4ca7-ae07-fde49b012855",
+  "Query": {
+    "Country": "US",
+    "Currency": "USD",
+    "Locale": "en-US",
+    "Adults": 1,
+    "Children": 0,
+    "Infants": 0,
+    "OriginPlace": "13416",
+    "DestinationPlace": "12240",
+    "OutboundDate": "2020-04-01",
+    "LocationSchema": "Default",
+    "CabinClass": "economy",
+    "GroupPricing": false
+  },
+  "Status": "UpdatesComplete",
+  "Itineraries": [],
+  "Legs": [
+    {
+      "Id": "13416-2004011100--32249-1-12240-2004011630",
+      "SegmentIds": [
+        0,
+        1
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T11:00:00",
+      "Arrival": "2020-04-01T16:30:00",
+      "Duration": 510,
+      "JourneyMode": "Flight",
+      "Stops": [
+        13176
+      ],
+      "Carriers": [
+        1169
+      ],
+      "OperatingCarriers": [
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "61",
+          "CarrierId": 1169
+        },
+        {
+          "FlightNumber": "317",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011000--32249-0-12240-2004011330",
+      "SegmentIds": [
+        2
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T10:00:00",
+      "Arrival": "2020-04-01T13:30:00",
+      "Duration": 390,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        1169
+      ],
+      "OperatingCarriers": [
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "3",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010905--32540-0-12240-2004011201",
+      "SegmentIds": [
+        3
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T09:05:00",
+      "Arrival": "2020-04-01T12:01:00",
+      "Duration": 356,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        854
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "2074",
+          "CarrierId": 854
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011535--32646,-32690-1-12240-2004012013",
+      "SegmentIds": [
+        4,
+        5
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T15:35:00",
+      "Arrival": "2020-04-01T20:13:00",
+      "Duration": 458,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1482,
+        929
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "9292",
+          "CarrierId": 1482
+        },
+        {
+          "FlightNumber": "7311",
+          "CarrierId": 929
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012230--32593,-32249-1-12240-2004021010",
+      "SegmentIds": [
+        6,
+        7
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T22:30:00",
+      "Arrival": "2020-04-02T10:10:00",
+      "Duration": 880,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        851,
+        1169
+      ],
+      "OperatingCarriers": [
+        851,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "951",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "53",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010600--32593-1-12240-2004011320",
+      "SegmentIds": [
+        8,
+        9
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T06:00:00",
+      "Arrival": "2020-04-01T13:20:00",
+      "Duration": 620,
+      "JourneyMode": "Flight",
+      "Stops": [
+        15265
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "565",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "889",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010800--31722-1-12240-2004011642",
+      "SegmentIds": [
+        10,
+        11
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T08:00:00",
+      "Arrival": "2020-04-01T16:42:00",
+      "Duration": 702,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "501",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "300",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012245--32090,-32646-1-12240-2004021144",
+      "SegmentIds": [
+        12,
+        13
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T22:45:00",
+      "Arrival": "2020-04-02T11:44:00",
+      "Duration": 959,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1368,
+        1482
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "2381",
+          "CarrierId": 1368
+        },
+        {
+          "FlightNumber": "9141",
+          "CarrierId": 1482
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012230--32593-2-12240-2004021330",
+      "SegmentIds": [
+        6,
+        14,
+        15
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T22:30:00",
+      "Arrival": "2020-04-02T13:30:00",
+      "Duration": 1080,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216,
+        16177
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "951",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "1741",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "103",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012110--32593-1-12240-2004021200",
+      "SegmentIds": [
+        16,
+        17
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T21:10:00",
+      "Arrival": "2020-04-02T12:00:00",
+      "Duration": 1070,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16177
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1763",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "417",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012032--32171-2-12240-2004021315",
+      "SegmentIds": [
+        18,
+        19,
+        20
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T20:32:00",
+      "Arrival": "2020-04-02T13:15:00",
+      "Duration": 1183,
+      "JourneyMode": "Flight",
+      "Stops": [
+        12712,
+        13411
+      ],
+      "Carriers": [
+        870
+      ],
+      "OperatingCarriers": [
+        870,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1224",
+          "CarrierId": 870
+        },
+        {
+          "FlightNumber": "1611",
+          "CarrierId": 870
+        },
+        {
+          "FlightNumber": "5807",
+          "CarrierId": 870
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011215--31722-2-12240-2004012013",
+      "SegmentIds": [
+        21,
+        22,
+        23
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T12:15:00",
+      "Arrival": "2020-04-01T20:13:00",
+      "Duration": 658,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16100,
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        -607,
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "5791",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "2163",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "1509",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011915--32540,-32571,-32690-2-12240-2004022013",
+      "SegmentIds": [
+        24,
+        25,
+        26
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T19:15:00",
+      "Arrival": "2020-04-02T20:13:00",
+      "Duration": 1678,
+      "JourneyMode": "Flight",
+      "Stops": [
+        13411,
+        16216
+      ],
+      "Carriers": [
+        854,
+        1464,
+        929
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "2092",
+          "CarrierId": 854
+        },
+        {
+          "FlightNumber": "7315",
+          "CarrierId": 1464
+        },
+        {
+          "FlightNumber": "7311",
+          "CarrierId": 929
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012355--32593-1-12240-2004021935",
+      "SegmentIds": [
+        27,
+        28
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T23:55:00",
+      "Arrival": "2020-04-02T19:35:00",
+      "Duration": 1360,
+      "JourneyMode": "Flight",
+      "Stops": [
+        9461
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "193",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "828",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012307--32540,-32249-1-12240-2004021020",
+      "SegmentIds": [
+        29,
+        30
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T23:07:00",
+      "Arrival": "2020-04-02T10:20:00",
+      "Duration": 853,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16388
+      ],
+      "Carriers": [
+        854,
+        1169
+      ],
+      "OperatingCarriers": [
+        -607,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "2390",
+          "CarrierId": 854
+        },
+        {
+          "FlightNumber": "19",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012105--32677,-32249-1-12240-2004020525",
+      "SegmentIds": [
+        31,
+        32
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T21:05:00",
+      "Arrival": "2020-04-02T05:25:00",
+      "Duration": 680,
+      "JourneyMode": "Flight",
+      "Stops": [
+        13411
+      ],
+      "Carriers": [
+        838,
+        1169
+      ],
+      "OperatingCarriers": [
+        988,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "5880",
+          "CarrierId": 838
+        },
+        {
+          "FlightNumber": "17",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010800--32249-1-12240-2004011245",
+      "SegmentIds": [
+        33,
+        34
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T08:00:00",
+      "Arrival": "2020-04-01T12:45:00",
+      "Duration": 465,
+      "JourneyMode": "Flight",
+      "Stops": [
+        14938
+      ],
+      "Carriers": [
+        1169
+      ],
+      "OperatingCarriers": [
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "33",
+          "CarrierId": 1169
+        },
+        {
+          "FlightNumber": "235",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012032--32171-1-12240-2004021525",
+      "SegmentIds": [
+        18,
+        35
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T20:32:00",
+      "Arrival": "2020-04-02T15:25:00",
+      "Duration": 1313,
+      "JourneyMode": "Flight",
+      "Stops": [
+        12712
+      ],
+      "Carriers": [
+        870
+      ],
+      "OperatingCarriers": [
+        870,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1224",
+          "CarrierId": 870
+        },
+        {
+          "FlightNumber": "5851",
+          "CarrierId": 870
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010950--31722-2-12240-2004012013",
+      "SegmentIds": [
+        36,
+        37,
+        23
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T09:50:00",
+      "Arrival": "2020-04-01T20:13:00",
+      "Duration": 803,
+      "JourneyMode": "Flight",
+      "Stops": [
+        14329,
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        -607,
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1509",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "5825",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "5984",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012100--31679,-32249-1-12240-2004021300",
+      "SegmentIds": [
+        38,
+        39
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T21:00:00",
+      "Arrival": "2020-04-02T13:00:00",
+      "Duration": 1140,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1907,
+        1169
+      ],
+      "OperatingCarriers": [
+        988,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "6347",
+          "CarrierId": 1907
+        },
+        {
+          "FlightNumber": "11",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011755--31722-0-12240-2004012055",
+      "SegmentIds": [
+        40
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T17:55:00",
+      "Arrival": "2020-04-01T20:55:00",
+      "Duration": 360,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1170",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011415--32480-0-12240-2004011727",
+      "SegmentIds": [
+        41
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T14:15:00",
+      "Arrival": "2020-04-01T17:27:00",
+      "Duration": 372,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        881
+      ],
+      "OperatingCarriers": [
+        833
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "4990",
+          "CarrierId": 881
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010835--32593,-31353-2-12240-2004011849",
+      "SegmentIds": [
+        42,
+        43,
+        44
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T08:35:00",
+      "Arrival": "2020-04-01T18:49:00",
+      "Duration": 794,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216,
+        14938
+      ],
+      "Carriers": [
+        851,
+        175
+      ],
+      "OperatingCarriers": [
+        851,
+        282
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1935",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "821",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "824",
+          "CarrierId": 175
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010030--32171-1-12240-2004011525",
+      "SegmentIds": [
+        45,
+        46
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T00:30:00",
+      "Arrival": "2020-04-01T15:25:00",
+      "Duration": 1075,
+      "JourneyMode": "Flight",
+      "Stops": [
+        12712
+      ],
+      "Carriers": [
+        870
+      ],
+      "OperatingCarriers": [
+        870,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "2024",
+          "CarrierId": 870
+        },
+        {
+          "FlightNumber": "5851",
+          "CarrierId": 870
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010600--31722-1-12240-2004011144",
+      "SegmentIds": [
+        47,
+        48
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T06:00:00",
+      "Arrival": "2020-04-01T11:44:00",
+      "Duration": 524,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1520",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "1175",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011400--31722-1-12240-2004012013",
+      "SegmentIds": [
+        49,
+        23
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T14:00:00",
+      "Arrival": "2020-04-01T20:13:00",
+      "Duration": 553,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1509",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "1555",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011345--31722-0-12240-2004011645",
+      "SegmentIds": [
+        50
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T13:45:00",
+      "Arrival": "2020-04-01T16:45:00",
+      "Duration": 360,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1431",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012110--32593-1-12240-2004021330",
+      "SegmentIds": [
+        16,
+        15
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T21:10:00",
+      "Arrival": "2020-04-02T13:30:00",
+      "Duration": 1160,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16177
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "103",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "1763",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011105--32593-2-12240-2004012105",
+      "SegmentIds": [
+        51,
+        52,
+        53
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T11:05:00",
+      "Arrival": "2020-04-01T21:05:00",
+      "Duration": 780,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216,
+        16177
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1889",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "960",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "129",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010945--32593,-31353-1-12240-2004011849",
+      "SegmentIds": [
+        54,
+        44
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T09:45:00",
+      "Arrival": "2020-04-01T18:49:00",
+      "Duration": 724,
+      "JourneyMode": "Flight",
+      "Stops": [
+        14938
+      ],
+      "Carriers": [
+        851,
+        175
+      ],
+      "OperatingCarriers": [
+        851,
+        282
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "824",
+          "CarrierId": 175
+        },
+        {
+          "FlightNumber": "813",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010920--32480-0-12240-2004011235",
+      "SegmentIds": [
+        55
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T09:20:00",
+      "Arrival": "2020-04-01T12:35:00",
+      "Duration": 375,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        881
+      ],
+      "OperatingCarriers": [
+        833
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "283",
+          "CarrierId": 881
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011905--32593-1-12240-2004021010",
+      "SegmentIds": [
+        56,
+        57
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T19:05:00",
+      "Arrival": "2020-04-02T10:10:00",
+      "Duration": 1085,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16307
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        -644,
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "3391",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "837",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010700--32249-0-12240-2004011015",
+      "SegmentIds": [
+        58
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T07:00:00",
+      "Arrival": "2020-04-01T10:15:00",
+      "Duration": 375,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        1169
+      ],
+      "OperatingCarriers": [
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011055--32090-0-12240-2004011401",
+      "SegmentIds": [
+        59
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T10:55:00",
+      "Arrival": "2020-04-01T14:01:00",
+      "Duration": 366,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        1368
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1224",
+          "CarrierId": 1368
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010945--32593,-32249-1-12240-2004011508",
+      "SegmentIds": [
+        54,
+        60
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T09:45:00",
+      "Arrival": "2020-04-01T15:08:00",
+      "Duration": 503,
+      "JourneyMode": "Flight",
+      "Stops": [
+        14938
+      ],
+      "Carriers": [
+        851,
+        1169
+      ],
+      "OperatingCarriers": [
+        851,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "813",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "285",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012245--31722-1-12240-2004021144",
+      "SegmentIds": [
+        61,
+        62
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T22:45:00",
+      "Arrival": "2020-04-02T11:44:00",
+      "Duration": 959,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "2381",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "1175",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011030--32593-2-12240-2004012105",
+      "SegmentIds": [
+        63,
+        64,
+        53
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T10:30:00",
+      "Arrival": "2020-04-01T21:05:00",
+      "Duration": 815,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16307,
+        16177
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        -709,
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "129",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "2445",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "597",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011515--32733-0-12240-2004011825",
+      "SegmentIds": [
+        65
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T15:15:00",
+      "Arrival": "2020-04-01T18:25:00",
+      "Duration": 370,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        845
+      ],
+      "OperatingCarriers": [
+        988
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "4797",
+          "CarrierId": 845
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011045--31722-2-12240-2004012013",
+      "SegmentIds": [
+        66,
+        67,
+        23
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T10:45:00",
+      "Arrival": "2020-04-01T20:13:00",
+      "Duration": 748,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16115,
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        -607,
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1509",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "5509",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "5756",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010755--32733-0-12240-2004011100",
+      "SegmentIds": [
+        68
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T07:55:00",
+      "Arrival": "2020-04-01T11:00:00",
+      "Duration": 365,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        845
+      ],
+      "OperatingCarriers": [
+        988
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "4079",
+          "CarrierId": 845
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011755--32690-0-12240-2004012055",
+      "SegmentIds": [
+        69
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T17:55:00",
+      "Arrival": "2020-04-01T20:55:00",
+      "Duration": 360,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        929
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "7260",
+          "CarrierId": 929
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012130--32593-2-12240-2004021200",
+      "SegmentIds": [
+        70,
+        71,
+        17
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T21:30:00",
+      "Arrival": "2020-04-02T12:00:00",
+      "Duration": 1050,
+      "JourneyMode": "Flight",
+      "Stops": [
+        15265,
+        16177
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "417",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "567",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "1307",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012245--32249-1-12240-2004021300",
+      "SegmentIds": [
+        72,
+        39
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T22:45:00",
+      "Arrival": "2020-04-02T13:00:00",
+      "Duration": 1035,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1169
+      ],
+      "OperatingCarriers": [
+        1793,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "11",
+          "CarrierId": 1169
+        },
+        {
+          "FlightNumber": "2381",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011350--32593-1-12240-2004021040",
+      "SegmentIds": [
+        73,
+        74
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T13:50:00",
+      "Arrival": "2020-04-02T10:40:00",
+      "Duration": 1430,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1929",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "743",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011201--32171-2-12240-2004021300",
+      "SegmentIds": [
+        75,
+        76,
+        77
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T12:01:00",
+      "Arrival": "2020-04-02T13:00:00",
+      "Duration": 1679,
+      "JourneyMode": "Flight",
+      "Stops": [
+        12712,
+        16216
+      ],
+      "Carriers": [
+        870
+      ],
+      "OperatingCarriers": [
+        870,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "424",
+          "CarrierId": 870
+        },
+        {
+          "FlightNumber": "1715",
+          "CarrierId": 870
+        },
+        {
+          "FlightNumber": "5811",
+          "CarrierId": 870
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012100--31679,-32646-1-12240-2004021144",
+      "SegmentIds": [
+        38,
+        13
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T21:00:00",
+      "Arrival": "2020-04-02T11:44:00",
+      "Duration": 1064,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1907,
+        1482
+      ],
+      "OperatingCarriers": [
+        988,
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "9141",
+          "CarrierId": 1482
+        },
+        {
+          "FlightNumber": "6347",
+          "CarrierId": 1907
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012140--32593-1-12240-2004021010",
+      "SegmentIds": [
+        78,
+        57
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T21:40:00",
+      "Arrival": "2020-04-02T10:10:00",
+      "Duration": 930,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16307
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        -709,
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "837",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "2554",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012245--32249-1-12240-2004021010",
+      "SegmentIds": [
+        72,
+        7
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T22:45:00",
+      "Arrival": "2020-04-02T10:10:00",
+      "Duration": 865,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1169
+      ],
+      "OperatingCarriers": [
+        1793,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "53",
+          "CarrierId": 1169
+        },
+        {
+          "FlightNumber": "2381",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012230--32593-1-12240-2004021040",
+      "SegmentIds": [
+        6,
+        74
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T22:30:00",
+      "Arrival": "2020-04-02T10:40:00",
+      "Duration": 910,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "951",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "743",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010700--32677,-32249-1-12240-2004011300",
+      "SegmentIds": [
+        79,
+        80
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T07:00:00",
+      "Arrival": "2020-04-01T13:00:00",
+      "Duration": 540,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        838,
+        1169
+      ],
+      "OperatingCarriers": [
+        988,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "2270",
+          "CarrierId": 838
+        },
+        {
+          "FlightNumber": "11",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010900--32249-1-12240-2004011440",
+      "SegmentIds": [
+        81,
+        82
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T09:00:00",
+      "Arrival": "2020-04-01T14:40:00",
+      "Duration": 520,
+      "JourneyMode": "Flight",
+      "Stops": [
+        13566
+      ],
+      "Carriers": [
+        1169
+      ],
+      "OperatingCarriers": [
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "63",
+          "CarrierId": 1169
+        },
+        {
+          "FlightNumber": "284",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010800--31722-1-12240-2004011340",
+      "SegmentIds": [
+        10,
+        83
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T08:00:00",
+      "Arrival": "2020-04-01T13:40:00",
+      "Duration": 520,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "501",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "2380",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010815--31722-2-12240-2004011642",
+      "SegmentIds": [
+        84,
+        85,
+        11
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T08:15:00",
+      "Arrival": "2020-04-01T16:42:00",
+      "Duration": 687,
+      "JourneyMode": "Flight",
+      "Stops": [
+        13411,
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "300",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "1540",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "2356",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012110--31722-1-12240-2004021144",
+      "SegmentIds": [
+        86,
+        62
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T21:10:00",
+      "Arrival": "2020-04-02T11:44:00",
+      "Duration": 1054,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1175",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "1818",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011945--31722-1-12240-2004021144",
+      "SegmentIds": [
+        87,
+        62
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T19:45:00",
+      "Arrival": "2020-04-02T11:44:00",
+      "Duration": 1139,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1175",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "1666",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011815--32249-1-12240-2004020715",
+      "SegmentIds": [
+        88,
+        89
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T18:15:00",
+      "Arrival": "2020-04-02T07:15:00",
+      "Duration": 960,
+      "JourneyMode": "Flight",
+      "Stops": [
+        12596
+      ],
+      "Carriers": [
+        1169
+      ],
+      "OperatingCarriers": [
+        1793,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1004",
+          "CarrierId": 1169
+        },
+        {
+          "FlightNumber": "101",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011315--32593-2-12240-2004021010",
+      "SegmentIds": [
+        90,
+        91,
+        57
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T13:15:00",
+      "Arrival": "2020-04-02T10:10:00",
+      "Duration": 1435,
+      "JourneyMode": "Flight",
+      "Stops": [
+        15265,
+        16307
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "837",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "1557",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "456",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011045--31722-1-12240-2004011642",
+      "SegmentIds": [
+        92,
+        11
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T10:45:00",
+      "Arrival": "2020-04-01T16:42:00",
+      "Duration": 537,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "300",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "1634",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010905--31722-0-12240-2004011201",
+      "SegmentIds": [
+        93
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T09:05:00",
+      "Arrival": "2020-04-01T12:01:00",
+      "Duration": 356,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1158",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011055--31722-0-12240-2004011401",
+      "SegmentIds": [
+        94
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T10:55:00",
+      "Arrival": "2020-04-01T14:01:00",
+      "Duration": 366,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1224",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010835--32593,-32646-1-12240-2004011642",
+      "SegmentIds": [
+        42,
+        95
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T08:35:00",
+      "Arrival": "2020-04-01T16:42:00",
+      "Duration": 667,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        851,
+        1482
+      ],
+      "OperatingCarriers": [
+        851,
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1935",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "9144",
+          "CarrierId": 1482
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012330--32171-1-12240-2004021525",
+      "SegmentIds": [
+        96,
+        35
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T23:30:00",
+      "Arrival": "2020-04-02T15:25:00",
+      "Duration": 1135,
+      "JourneyMode": "Flight",
+      "Stops": [
+        12712
+      ],
+      "Carriers": [
+        870
+      ],
+      "OperatingCarriers": [
+        870,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "5851",
+          "CarrierId": 870
+        },
+        {
+          "FlightNumber": "1424",
+          "CarrierId": 870
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012215--32480,-32249-1-12240-2004020525",
+      "SegmentIds": [
+        97,
+        32
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T22:15:00",
+      "Arrival": "2020-04-02T05:25:00",
+      "Duration": 610,
+      "JourneyMode": "Flight",
+      "Stops": [
+        13411
+      ],
+      "Carriers": [
+        881,
+        1169
+      ],
+      "OperatingCarriers": [
+        833,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "17",
+          "CarrierId": 1169
+        },
+        {
+          "FlightNumber": "2491",
+          "CarrierId": 881
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011025--32593-2-12240-2004012105",
+      "SegmentIds": [
+        98,
+        99,
+        53
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T10:25:00",
+      "Arrival": "2020-04-01T21:05:00",
+      "Duration": 820,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16359,
+        16177
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        -709,
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "129",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "2531",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "981",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010953--31722-2-12240-2004012013",
+      "SegmentIds": [
+        100,
+        101,
+        23
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T09:53:00",
+      "Arrival": "2020-04-01T20:13:00",
+      "Duration": 800,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16359,
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        -607,
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1509",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "5841",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "5872",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011700--32593-2-12240-2004021330",
+      "SegmentIds": [
+        102,
+        103,
+        15
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T17:00:00",
+      "Arrival": "2020-04-02T13:30:00",
+      "Duration": 1410,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16307,
+        16177
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        -644,
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "103",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "3337",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "541",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011130--32593-0-12240-2004011450",
+      "SegmentIds": [
+        104
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T11:30:00",
+      "Arrival": "2020-04-01T14:50:00",
+      "Duration": 380,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "817",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011835--32317-0-12240-2004012146",
+      "SegmentIds": [
+        105
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T18:35:00",
+      "Arrival": "2020-04-01T21:46:00",
+      "Duration": 371,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        857
+      ],
+      "OperatingCarriers": [
+        833
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "4089",
+          "CarrierId": 857
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011605--32593,-32249-1-12240-2004012210",
+      "SegmentIds": [
+        106,
+        107
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T16:05:00",
+      "Arrival": "2020-04-01T22:10:00",
+      "Duration": 545,
+      "JourneyMode": "Flight",
+      "Stops": [
+        13411
+      ],
+      "Carriers": [
+        851,
+        1169
+      ],
+      "OperatingCarriers": [
+        851,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1482",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "5",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010806--32677,-32249-1-12240-2004011400",
+      "SegmentIds": [
+        108,
+        109
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T08:06:00",
+      "Arrival": "2020-04-01T14:00:00",
+      "Duration": 534,
+      "JourneyMode": "Flight",
+      "Stops": [
+        14938
+      ],
+      "Carriers": [
+        838,
+        1169
+      ],
+      "OperatingCarriers": [
+        988,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "6823",
+          "CarrierId": 838
+        },
+        {
+          "FlightNumber": "265",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010800--32593-2-12240-2004011935",
+      "SegmentIds": [
+        110,
+        111,
+        112
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T08:00:00",
+      "Arrival": "2020-04-01T19:35:00",
+      "Duration": 875,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16177,
+        9461
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "703",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "93",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "828",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010930--31722-1-12240-2004011642",
+      "SegmentIds": [
+        113,
+        11
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T09:30:00",
+      "Arrival": "2020-04-01T16:42:00",
+      "Duration": 612,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "300",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "1643",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010530--31722-1-12240-2004011503",
+      "SegmentIds": [
+        114,
+        115
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T05:30:00",
+      "Arrival": "2020-04-01T15:03:00",
+      "Duration": 753,
+      "JourneyMode": "Flight",
+      "Stops": [
+        10959
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "371",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "328",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011915--32540,-32090,-32690-2-12240-2004022013",
+      "SegmentIds": [
+        24,
+        116,
+        26
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T19:15:00",
+      "Arrival": "2020-04-02T20:13:00",
+      "Duration": 1678,
+      "JourneyMode": "Flight",
+      "Stops": [
+        13411,
+        16216
+      ],
+      "Carriers": [
+        854,
+        1368,
+        929
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "2092",
+          "CarrierId": 854
+        },
+        {
+          "FlightNumber": "7311",
+          "CarrierId": 929
+        },
+        {
+          "FlightNumber": "656",
+          "CarrierId": 1368
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011859--32677-0-12240-2004012205",
+      "SegmentIds": [
+        117
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T18:59:00",
+      "Arrival": "2020-04-01T22:05:00",
+      "Duration": 366,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        838
+      ],
+      "OperatingCarriers": [
+        988
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "7922",
+          "CarrierId": 838
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010920--31722-2-12240-2004012013",
+      "SegmentIds": [
+        118,
+        119,
+        23
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T09:20:00",
+      "Arrival": "2020-04-01T20:13:00",
+      "Duration": 833,
+      "JourneyMode": "Flight",
+      "Stops": [
+        11420,
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        -607,
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1509",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "5530",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "5478",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012230--32593-2-12240-2004021320",
+      "SegmentIds": [
+        6,
+        120,
+        121
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T22:30:00",
+      "Arrival": "2020-04-02T13:20:00",
+      "Duration": 1070,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216,
+        15265
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "951",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "249",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "889",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011007--32171-2-12240-2004020525",
+      "SegmentIds": [
+        122,
+        123,
+        124
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T10:07:00",
+      "Arrival": "2020-04-02T05:25:00",
+      "Duration": 1338,
+      "JourneyMode": "Flight",
+      "Stops": [
+        11560,
+        13411
+      ],
+      "Carriers": [
+        870
+      ],
+      "OperatingCarriers": [
+        870,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "700",
+          "CarrierId": 870
+        },
+        {
+          "FlightNumber": "7",
+          "CarrierId": 870
+        },
+        {
+          "FlightNumber": "5817",
+          "CarrierId": 870
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011535--31722-1-12240-2004012013",
+      "SegmentIds": [
+        125,
+        23
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T15:35:00",
+      "Arrival": "2020-04-01T20:13:00",
+      "Duration": 458,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1509",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "2237",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010845--31722-2-12240-2004011642",
+      "SegmentIds": [
+        126,
+        127,
+        11
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T08:45:00",
+      "Arrival": "2020-04-01T16:42:00",
+      "Duration": 657,
+      "JourneyMode": "Flight",
+      "Stops": [
+        15947,
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        -607,
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "300",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "5414",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "5332",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004012100--31679,-32249-1-12240-2004021010",
+      "SegmentIds": [
+        38,
+        7
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T21:00:00",
+      "Arrival": "2020-04-02T10:10:00",
+      "Duration": 970,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1907,
+        1169
+      ],
+      "OperatingCarriers": [
+        988,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "53",
+          "CarrierId": 1169
+        },
+        {
+          "FlightNumber": "6347",
+          "CarrierId": 1907
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011345--32593-1-12240-2004012105",
+      "SegmentIds": [
+        128,
+        53
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T13:45:00",
+      "Arrival": "2020-04-01T21:05:00",
+      "Duration": 620,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16177
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "129",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "1007",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011700--31722-1-12240-2004021144",
+      "SegmentIds": [
+        129,
+        62
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T17:00:00",
+      "Arrival": "2020-04-02T11:44:00",
+      "Duration": 1304,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1175",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "1757",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011132--32171-2-12240-2004020525",
+      "SegmentIds": [
+        130,
+        131,
+        124
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T11:32:00",
+      "Arrival": "2020-04-02T05:25:00",
+      "Duration": 1253,
+      "JourneyMode": "Flight",
+      "Stops": [
+        10081,
+        13411
+      ],
+      "Carriers": [
+        870
+      ],
+      "OperatingCarriers": [
+        870,
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "5817",
+          "CarrierId": 870
+        },
+        {
+          "FlightNumber": "488",
+          "CarrierId": 870
+        },
+        {
+          "FlightNumber": "177",
+          "CarrierId": 870
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004010800--32480-0-12240-2004011113",
+      "SegmentIds": [
+        132
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T08:00:00",
+      "Arrival": "2020-04-01T11:13:00",
+      "Duration": 373,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        881
+      ],
+      "OperatingCarriers": [
+        833
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "4741",
+          "CarrierId": 881
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011342--31722-2-12240-2004012013",
+      "SegmentIds": [
+        133,
+        134,
+        23
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T13:42:00",
+      "Arrival": "2020-04-01T20:13:00",
+      "Duration": 571,
+      "JourneyMode": "Flight",
+      "Stops": [
+        16088,
+        16216
+      ],
+      "Carriers": [
+        1793
+      ],
+      "OperatingCarriers": [
+        -607,
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "1509",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "5415",
+          "CarrierId": 1793
+        },
+        {
+          "FlightNumber": "2482",
+          "CarrierId": 1793
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011115--32593-2-12240-2004012105",
+      "SegmentIds": [
+        135,
+        136,
+        53
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T11:15:00",
+      "Arrival": "2020-04-01T21:05:00",
+      "Duration": 770,
+      "JourneyMode": "Flight",
+      "Stops": [
+        11773,
+        16177
+      ],
+      "Carriers": [
+        851
+      ],
+      "OperatingCarriers": [
+        -644,
+        -709,
+        851
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "129",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "3460",
+          "CarrierId": 851
+        },
+        {
+          "FlightNumber": "2721",
+          "CarrierId": 851
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011035--32733-0-12240-2004011349",
+      "SegmentIds": [
+        137
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T10:35:00",
+      "Arrival": "2020-04-01T13:49:00",
+      "Duration": 374,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        845
+      ],
+      "OperatingCarriers": [
+        988
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "3334",
+          "CarrierId": 845
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011750--32249-0-12240-2004012105",
+      "SegmentIds": [
+        138
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T17:50:00",
+      "Arrival": "2020-04-01T21:05:00",
+      "Duration": 375,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        1169
+      ],
+      "OperatingCarriers": [
+        1169
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "9",
+          "CarrierId": 1169
+        }
+      ]
+    },
+    {
+      "Id": "13416-2004011345--32571-0-12240-2004011645",
+      "SegmentIds": [
+        139
+      ],
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "Departure": "2020-04-01T13:45:00",
+      "Arrival": "2020-04-01T16:45:00",
+      "Duration": 360,
+      "JourneyMode": "Flight",
+      "Stops": [],
+      "Carriers": [
+        1464
+      ],
+      "OperatingCarriers": [
+        1793
+      ],
+      "Directionality": "Inbound",
+      "FlightNumbers": [
+        {
+          "FlightNumber": "7229",
+          "CarrierId": 1464
+        }
+      ]
+    }
+  ],
+  "Segments": [
+    {
+      "Id": 0,
+      "OriginStation": 13416,
+      "DestinationStation": 13176,
+      "DepartureDateTime": "2020-04-01T11:00:00",
+      "ArrivalDateTime": "2020-04-01T14:15:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 375,
+      "FlightNumber": "61",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 1,
+      "OriginStation": 13176,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T15:41:00",
+      "ArrivalDateTime": "2020-04-01T16:30:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 49,
+      "FlightNumber": "317",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 2,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T10:00:00",
+      "ArrivalDateTime": "2020-04-01T13:30:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 390,
+      "FlightNumber": "3",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 3,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T09:05:00",
+      "ArrivalDateTime": "2020-04-01T12:01:00",
+      "Carrier": 854,
+      "OperatingCarrier": 1793,
+      "Duration": 356,
+      "FlightNumber": "2074",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 4,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T15:35:00",
+      "ArrivalDateTime": "2020-04-01T17:06:00",
+      "Carrier": 1482,
+      "OperatingCarrier": 1793,
+      "Duration": 91,
+      "FlightNumber": "9292",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 5,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T17:45:00",
+      "ArrivalDateTime": "2020-04-01T20:13:00",
+      "Carrier": 929,
+      "OperatingCarrier": 1793,
+      "Duration": 328,
+      "FlightNumber": "7311",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 6,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T22:30:00",
+      "ArrivalDateTime": "2020-04-01T23:56:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 86,
+      "FlightNumber": "951",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 7,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T07:10:00",
+      "ArrivalDateTime": "2020-04-02T10:10:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 360,
+      "FlightNumber": "53",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 8,
+      "OriginStation": 13416,
+      "DestinationStation": 15265,
+      "DepartureDateTime": "2020-04-01T06:00:00",
+      "ArrivalDateTime": "2020-04-01T08:30:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 150,
+      "FlightNumber": "565",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 9,
+      "OriginStation": 15265,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T10:00:00",
+      "ArrivalDateTime": "2020-04-01T13:20:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 380,
+      "FlightNumber": "889",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 10,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T08:00:00",
+      "ArrivalDateTime": "2020-04-01T09:45:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 105,
+      "FlightNumber": "501",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 11,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T14:10:00",
+      "ArrivalDateTime": "2020-04-01T16:42:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 332,
+      "FlightNumber": "300",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 12,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T22:45:00",
+      "ArrivalDateTime": "2020-04-02T00:14:00",
+      "Carrier": 1368,
+      "OperatingCarrier": 1793,
+      "Duration": 89,
+      "FlightNumber": "2381",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 13,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T09:05:00",
+      "ArrivalDateTime": "2020-04-02T11:44:00",
+      "Carrier": 1482,
+      "OperatingCarrier": 1793,
+      "Duration": 339,
+      "FlightNumber": "9141",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 14,
+      "OriginStation": 16216,
+      "DestinationStation": 16177,
+      "DepartureDateTime": "2020-04-02T06:00:00",
+      "ArrivalDateTime": "2020-04-02T08:19:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 139,
+      "FlightNumber": "1741",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 15,
+      "OriginStation": 16177,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T09:55:00",
+      "ArrivalDateTime": "2020-04-02T13:30:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 395,
+      "FlightNumber": "103",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 16,
+      "OriginStation": 13416,
+      "DestinationStation": 16177,
+      "DepartureDateTime": "2020-04-01T21:10:00",
+      "ArrivalDateTime": "2020-04-01T23:59:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 169,
+      "FlightNumber": "1763",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 17,
+      "OriginStation": 16177,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T08:25:00",
+      "ArrivalDateTime": "2020-04-02T12:00:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 395,
+      "FlightNumber": "417",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 18,
+      "OriginStation": 13416,
+      "DestinationStation": 12712,
+      "DepartureDateTime": "2020-04-01T20:32:00",
+      "ArrivalDateTime": "2020-04-02T04:53:00",
+      "Carrier": 870,
+      "OperatingCarrier": 870,
+      "Duration": 321,
+      "FlightNumber": "1224",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 19,
+      "OriginStation": 12712,
+      "DestinationStation": 13411,
+      "DepartureDateTime": "2020-04-02T05:35:00",
+      "ArrivalDateTime": "2020-04-02T08:18:00",
+      "Carrier": 870,
+      "OperatingCarrier": 870,
+      "Duration": 343,
+      "FlightNumber": "1611",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 20,
+      "OriginStation": 13411,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T09:25:00",
+      "ArrivalDateTime": "2020-04-02T13:15:00",
+      "Carrier": 870,
+      "OperatingCarrier": 1169,
+      "Duration": 410,
+      "FlightNumber": "5807",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 21,
+      "OriginStation": 13416,
+      "DestinationStation": 16100,
+      "DepartureDateTime": "2020-04-01T12:15:00",
+      "ArrivalDateTime": "2020-04-01T13:07:00",
+      "Carrier": 1793,
+      "OperatingCarrier": -607,
+      "Duration": 52,
+      "FlightNumber": "5791",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 22,
+      "OriginStation": 16100,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T13:54:00",
+      "ArrivalDateTime": "2020-04-01T15:09:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 75,
+      "FlightNumber": "2163",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 23,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T17:45:00",
+      "ArrivalDateTime": "2020-04-01T20:13:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 328,
+      "FlightNumber": "1509",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 24,
+      "OriginStation": 13416,
+      "DestinationStation": 13411,
+      "DepartureDateTime": "2020-04-01T19:15:00",
+      "ArrivalDateTime": "2020-04-01T20:29:00",
+      "Carrier": 854,
+      "OperatingCarrier": 1793,
+      "Duration": 74,
+      "FlightNumber": "2092",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 25,
+      "OriginStation": 13411,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-02T06:00:00",
+      "ArrivalDateTime": "2020-04-02T07:40:00",
+      "Carrier": 1464,
+      "OperatingCarrier": 1793,
+      "Duration": 100,
+      "FlightNumber": "7315",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 26,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T17:45:00",
+      "ArrivalDateTime": "2020-04-02T20:13:00",
+      "Carrier": 929,
+      "OperatingCarrier": 1793,
+      "Duration": 328,
+      "FlightNumber": "7311",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 27,
+      "OriginStation": 13416,
+      "DestinationStation": 9461,
+      "DepartureDateTime": "2020-04-01T23:55:00",
+      "ArrivalDateTime": "2020-04-02T04:29:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 334,
+      "FlightNumber": "193",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 28,
+      "OriginStation": 9461,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T15:30:00",
+      "ArrivalDateTime": "2020-04-02T19:35:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 365,
+      "FlightNumber": "828",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 29,
+      "OriginStation": 13416,
+      "DestinationStation": 16388,
+      "DepartureDateTime": "2020-04-01T23:07:00",
+      "ArrivalDateTime": "2020-04-02T00:42:00",
+      "Carrier": 854,
+      "OperatingCarrier": -607,
+      "Duration": 95,
+      "FlightNumber": "2390",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 30,
+      "OriginStation": 16388,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T07:20:00",
+      "ArrivalDateTime": "2020-04-02T10:20:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 360,
+      "FlightNumber": "19",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 31,
+      "OriginStation": 13416,
+      "DestinationStation": 13411,
+      "DepartureDateTime": "2020-04-01T21:05:00",
+      "ArrivalDateTime": "2020-04-01T22:26:00",
+      "Carrier": 838,
+      "OperatingCarrier": 988,
+      "Duration": 81,
+      "FlightNumber": "5880",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 32,
+      "OriginStation": 13411,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T01:45:00",
+      "ArrivalDateTime": "2020-04-02T05:25:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 400,
+      "FlightNumber": "17",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 33,
+      "OriginStation": 13416,
+      "DestinationStation": 14938,
+      "DepartureDateTime": "2020-04-01T08:00:00",
+      "ArrivalDateTime": "2020-04-01T11:10:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 370,
+      "FlightNumber": "33",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 34,
+      "OriginStation": 14938,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T12:05:00",
+      "ArrivalDateTime": "2020-04-01T12:45:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 40,
+      "FlightNumber": "235",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 35,
+      "OriginStation": 12712,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T10:00:00",
+      "ArrivalDateTime": "2020-04-02T15:25:00",
+      "Carrier": 870,
+      "OperatingCarrier": 1169,
+      "Duration": 685,
+      "FlightNumber": "5851",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 36,
+      "OriginStation": 13416,
+      "DestinationStation": 14329,
+      "DepartureDateTime": "2020-04-01T09:50:00",
+      "ArrivalDateTime": "2020-04-01T11:09:00",
+      "Carrier": 1793,
+      "OperatingCarrier": -607,
+      "Duration": 79,
+      "FlightNumber": "5825",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 37,
+      "OriginStation": 14329,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T13:40:00",
+      "ArrivalDateTime": "2020-04-01T14:39:00",
+      "Carrier": 1793,
+      "OperatingCarrier": -607,
+      "Duration": 59,
+      "FlightNumber": "5984",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 38,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T21:00:00",
+      "ArrivalDateTime": "2020-04-01T22:27:00",
+      "Carrier": 1907,
+      "OperatingCarrier": 988,
+      "Duration": 87,
+      "FlightNumber": "6347",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 39,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T10:00:00",
+      "ArrivalDateTime": "2020-04-02T13:00:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 360,
+      "FlightNumber": "11",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 40,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T17:55:00",
+      "ArrivalDateTime": "2020-04-01T20:55:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 360,
+      "FlightNumber": "1170",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 41,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T14:15:00",
+      "ArrivalDateTime": "2020-04-01T17:27:00",
+      "Carrier": 881,
+      "OperatingCarrier": 833,
+      "Duration": 372,
+      "FlightNumber": "4990",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 42,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T08:35:00",
+      "ArrivalDateTime": "2020-04-01T10:05:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 90,
+      "FlightNumber": "1935",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 43,
+      "OriginStation": 16216,
+      "DestinationStation": 14938,
+      "DepartureDateTime": "2020-04-01T12:05:00",
+      "ArrivalDateTime": "2020-04-01T14:55:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 350,
+      "FlightNumber": "821",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 44,
+      "OriginStation": 14938,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T17:50:00",
+      "ArrivalDateTime": "2020-04-01T18:49:00",
+      "Carrier": 175,
+      "OperatingCarrier": 282,
+      "Duration": 59,
+      "FlightNumber": "824",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 45,
+      "OriginStation": 13416,
+      "DestinationStation": 12712,
+      "DepartureDateTime": "2020-04-01T00:30:00",
+      "ArrivalDateTime": "2020-04-01T09:00:00",
+      "Carrier": 870,
+      "OperatingCarrier": 870,
+      "Duration": 330,
+      "FlightNumber": "2024",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 46,
+      "OriginStation": 12712,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T10:00:00",
+      "ArrivalDateTime": "2020-04-01T15:25:00",
+      "Carrier": 870,
+      "OperatingCarrier": 1169,
+      "Duration": 685,
+      "FlightNumber": "5851",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 47,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T06:00:00",
+      "ArrivalDateTime": "2020-04-01T07:33:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 93,
+      "FlightNumber": "1520",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 48,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T09:05:00",
+      "ArrivalDateTime": "2020-04-01T11:44:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 339,
+      "FlightNumber": "1175",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 49,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T14:00:00",
+      "ArrivalDateTime": "2020-04-01T15:33:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 93,
+      "FlightNumber": "1555",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 50,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T13:45:00",
+      "ArrivalDateTime": "2020-04-01T16:45:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 360,
+      "FlightNumber": "1431",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 51,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T11:05:00",
+      "ArrivalDateTime": "2020-04-01T12:34:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 89,
+      "FlightNumber": "1889",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 52,
+      "OriginStation": 16216,
+      "DestinationStation": 16177,
+      "DepartureDateTime": "2020-04-01T14:20:00",
+      "ArrivalDateTime": "2020-04-01T16:35:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 135,
+      "FlightNumber": "960",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 53,
+      "OriginStation": 16177,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T17:35:00",
+      "ArrivalDateTime": "2020-04-01T21:05:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 390,
+      "FlightNumber": "129",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 54,
+      "OriginStation": 13416,
+      "DestinationStation": 14938,
+      "DepartureDateTime": "2020-04-01T09:45:00",
+      "ArrivalDateTime": "2020-04-01T13:00:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 375,
+      "FlightNumber": "813",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 55,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T09:20:00",
+      "ArrivalDateTime": "2020-04-01T12:35:00",
+      "Carrier": 881,
+      "OperatingCarrier": 833,
+      "Duration": 375,
+      "FlightNumber": "283",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 56,
+      "OriginStation": 13416,
+      "DestinationStation": 16307,
+      "DepartureDateTime": "2020-04-01T19:05:00",
+      "ArrivalDateTime": "2020-04-01T20:25:00",
+      "Carrier": 851,
+      "OperatingCarrier": -644,
+      "Duration": 80,
+      "FlightNumber": "3391",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 57,
+      "OriginStation": 16307,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T07:10:00",
+      "ArrivalDateTime": "2020-04-02T10:10:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 360,
+      "FlightNumber": "837",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 58,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T07:00:00",
+      "ArrivalDateTime": "2020-04-01T10:15:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 375,
+      "FlightNumber": "1",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 59,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T10:55:00",
+      "ArrivalDateTime": "2020-04-01T14:01:00",
+      "Carrier": 1368,
+      "OperatingCarrier": 1793,
+      "Duration": 366,
+      "FlightNumber": "1224",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 60,
+      "OriginStation": 14938,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T14:25:00",
+      "ArrivalDateTime": "2020-04-01T15:08:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 43,
+      "FlightNumber": "285",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 61,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T22:45:00",
+      "ArrivalDateTime": "2020-04-02T00:14:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 89,
+      "FlightNumber": "2381",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 62,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T09:05:00",
+      "ArrivalDateTime": "2020-04-02T11:44:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 339,
+      "FlightNumber": "1175",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 63,
+      "OriginStation": 13416,
+      "DestinationStation": 16307,
+      "DepartureDateTime": "2020-04-01T10:30:00",
+      "ArrivalDateTime": "2020-04-01T11:53:00",
+      "Carrier": 851,
+      "OperatingCarrier": -709,
+      "Duration": 83,
+      "FlightNumber": "2445",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 64,
+      "OriginStation": 16307,
+      "DestinationStation": 16177,
+      "DepartureDateTime": "2020-04-01T14:00:00",
+      "ArrivalDateTime": "2020-04-01T16:14:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 134,
+      "FlightNumber": "597",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 65,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T15:15:00",
+      "ArrivalDateTime": "2020-04-01T18:25:00",
+      "Carrier": 845,
+      "OperatingCarrier": 988,
+      "Duration": 370,
+      "FlightNumber": "4797",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 66,
+      "OriginStation": 13416,
+      "DestinationStation": 16115,
+      "DepartureDateTime": "2020-04-01T10:45:00",
+      "ArrivalDateTime": "2020-04-01T11:45:00",
+      "Carrier": 1793,
+      "OperatingCarrier": -607,
+      "Duration": 60,
+      "FlightNumber": "5509",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 67,
+      "OriginStation": 16115,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T13:56:00",
+      "ArrivalDateTime": "2020-04-01T15:09:00",
+      "Carrier": 1793,
+      "OperatingCarrier": -607,
+      "Duration": 73,
+      "FlightNumber": "5756",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 68,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T07:55:00",
+      "ArrivalDateTime": "2020-04-01T11:00:00",
+      "Carrier": 845,
+      "OperatingCarrier": 988,
+      "Duration": 365,
+      "FlightNumber": "4079",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 69,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T17:55:00",
+      "ArrivalDateTime": "2020-04-01T20:55:00",
+      "Carrier": 929,
+      "OperatingCarrier": 1793,
+      "Duration": 360,
+      "FlightNumber": "7260",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 70,
+      "OriginStation": 13416,
+      "DestinationStation": 15265,
+      "DepartureDateTime": "2020-04-01T21:30:00",
+      "ArrivalDateTime": "2020-04-01T23:58:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 148,
+      "FlightNumber": "567",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 71,
+      "OriginStation": 15265,
+      "DestinationStation": 16177,
+      "DepartureDateTime": "2020-04-02T06:00:00",
+      "ArrivalDateTime": "2020-04-02T06:59:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 59,
+      "FlightNumber": "1307",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 72,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T22:45:00",
+      "ArrivalDateTime": "2020-04-02T00:14:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1793,
+      "Duration": 89,
+      "FlightNumber": "2381",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 73,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T13:50:00",
+      "ArrivalDateTime": "2020-04-01T15:19:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 89,
+      "FlightNumber": "1929",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 74,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T07:50:00",
+      "ArrivalDateTime": "2020-04-02T10:40:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 350,
+      "FlightNumber": "743",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 75,
+      "OriginStation": 13416,
+      "DestinationStation": 12712,
+      "DepartureDateTime": "2020-04-01T12:01:00",
+      "ArrivalDateTime": "2020-04-01T20:30:00",
+      "Carrier": 870,
+      "OperatingCarrier": 870,
+      "Duration": 329,
+      "FlightNumber": "424",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 76,
+      "OriginStation": 12712,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T21:48:00",
+      "ArrivalDateTime": "2020-04-02T01:30:00",
+      "Carrier": 870,
+      "OperatingCarrier": 870,
+      "Duration": 402,
+      "FlightNumber": "1715",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 77,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T10:00:00",
+      "ArrivalDateTime": "2020-04-02T13:00:00",
+      "Carrier": 870,
+      "OperatingCarrier": 1169,
+      "Duration": 360,
+      "FlightNumber": "5811",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 78,
+      "OriginStation": 13416,
+      "DestinationStation": 16307,
+      "DepartureDateTime": "2020-04-01T21:40:00",
+      "ArrivalDateTime": "2020-04-01T22:59:00",
+      "Carrier": 851,
+      "OperatingCarrier": -709,
+      "Duration": 79,
+      "FlightNumber": "2554",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 79,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T07:00:00",
+      "ArrivalDateTime": "2020-04-01T08:35:00",
+      "Carrier": 838,
+      "OperatingCarrier": 988,
+      "Duration": 95,
+      "FlightNumber": "2270",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 80,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T10:00:00",
+      "ArrivalDateTime": "2020-04-01T13:00:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 360,
+      "FlightNumber": "11",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 81,
+      "OriginStation": 13416,
+      "DestinationStation": 13566,
+      "DepartureDateTime": "2020-04-01T09:00:00",
+      "ArrivalDateTime": "2020-04-01T12:30:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 390,
+      "FlightNumber": "63",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 82,
+      "OriginStation": 13566,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T14:03:00",
+      "ArrivalDateTime": "2020-04-01T14:40:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 37,
+      "FlightNumber": "284",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 83,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T10:50:00",
+      "ArrivalDateTime": "2020-04-01T13:40:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 350,
+      "FlightNumber": "2380",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 84,
+      "OriginStation": 13416,
+      "DestinationStation": 13411,
+      "DepartureDateTime": "2020-04-01T08:15:00",
+      "ArrivalDateTime": "2020-04-01T09:32:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 77,
+      "FlightNumber": "1540",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 85,
+      "OriginStation": 13411,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T11:21:00",
+      "ArrivalDateTime": "2020-04-01T13:08:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 107,
+      "FlightNumber": "2356",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 86,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T21:10:00",
+      "ArrivalDateTime": "2020-04-01T22:44:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 94,
+      "FlightNumber": "1818",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 87,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T19:45:00",
+      "ArrivalDateTime": "2020-04-01T21:20:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 95,
+      "FlightNumber": "1666",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 88,
+      "OriginStation": 13416,
+      "DestinationStation": 12596,
+      "DepartureDateTime": "2020-04-01T18:15:00",
+      "ArrivalDateTime": "2020-04-01T20:58:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1793,
+      "Duration": 343,
+      "FlightNumber": "1004",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 89,
+      "OriginStation": 12596,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T06:23:00",
+      "ArrivalDateTime": "2020-04-02T07:15:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 52,
+      "FlightNumber": "101",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 90,
+      "OriginStation": 13416,
+      "DestinationStation": 15265,
+      "DepartureDateTime": "2020-04-01T13:15:00",
+      "ArrivalDateTime": "2020-04-01T15:45:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 150,
+      "FlightNumber": "1557",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 91,
+      "OriginStation": 15265,
+      "DestinationStation": 16307,
+      "DepartureDateTime": "2020-04-01T18:25:00",
+      "ArrivalDateTime": "2020-04-01T20:10:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 105,
+      "FlightNumber": "456",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 92,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T10:45:00",
+      "ArrivalDateTime": "2020-04-01T12:18:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 93,
+      "FlightNumber": "1634",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 93,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T09:05:00",
+      "ArrivalDateTime": "2020-04-01T12:01:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 356,
+      "FlightNumber": "1158",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 94,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T10:55:00",
+      "ArrivalDateTime": "2020-04-01T14:01:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 366,
+      "FlightNumber": "1224",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 95,
+      "OriginStation": 16216,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T14:10:00",
+      "ArrivalDateTime": "2020-04-01T16:42:00",
+      "Carrier": 1482,
+      "OperatingCarrier": 1793,
+      "Duration": 332,
+      "FlightNumber": "9144",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 96,
+      "OriginStation": 13416,
+      "DestinationStation": 12712,
+      "DepartureDateTime": "2020-04-01T23:30:00",
+      "ArrivalDateTime": "2020-04-02T08:01:00",
+      "Carrier": 870,
+      "OperatingCarrier": 870,
+      "Duration": 331,
+      "FlightNumber": "1424",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 97,
+      "OriginStation": 13416,
+      "DestinationStation": 13411,
+      "DepartureDateTime": "2020-04-01T22:15:00",
+      "ArrivalDateTime": "2020-04-01T23:28:00",
+      "Carrier": 881,
+      "OperatingCarrier": 833,
+      "Duration": 73,
+      "FlightNumber": "2491",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 98,
+      "OriginStation": 13416,
+      "DestinationStation": 16359,
+      "DepartureDateTime": "2020-04-01T10:25:00",
+      "ArrivalDateTime": "2020-04-01T13:27:00",
+      "Carrier": 851,
+      "OperatingCarrier": -709,
+      "Duration": 122,
+      "FlightNumber": "2531",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 99,
+      "OriginStation": 16359,
+      "DestinationStation": 16177,
+      "DepartureDateTime": "2020-04-01T15:35:00",
+      "ArrivalDateTime": "2020-04-01T16:50:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 135,
+      "FlightNumber": "981",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 100,
+      "OriginStation": 13416,
+      "DestinationStation": 16359,
+      "DepartureDateTime": "2020-04-01T09:53:00",
+      "ArrivalDateTime": "2020-04-01T12:53:00",
+      "Carrier": 1793,
+      "OperatingCarrier": -607,
+      "Duration": 120,
+      "FlightNumber": "5841",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 101,
+      "OriginStation": 16359,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T13:56:00",
+      "ArrivalDateTime": "2020-04-01T15:07:00",
+      "Carrier": 1793,
+      "OperatingCarrier": -607,
+      "Duration": 131,
+      "FlightNumber": "5872",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 102,
+      "OriginStation": 13416,
+      "DestinationStation": 16307,
+      "DepartureDateTime": "2020-04-01T17:00:00",
+      "ArrivalDateTime": "2020-04-01T18:20:00",
+      "Carrier": 851,
+      "OperatingCarrier": -644,
+      "Duration": 80,
+      "FlightNumber": "3337",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 103,
+      "OriginStation": 16307,
+      "DestinationStation": 16177,
+      "DepartureDateTime": "2020-04-01T19:55:00",
+      "ArrivalDateTime": "2020-04-01T22:09:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 134,
+      "FlightNumber": "541",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 104,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T11:30:00",
+      "ArrivalDateTime": "2020-04-01T14:50:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 380,
+      "FlightNumber": "817",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 105,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T18:35:00",
+      "ArrivalDateTime": "2020-04-01T21:46:00",
+      "Carrier": 857,
+      "OperatingCarrier": 833,
+      "Duration": 371,
+      "FlightNumber": "4089",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 106,
+      "OriginStation": 13416,
+      "DestinationStation": 13411,
+      "DepartureDateTime": "2020-04-01T16:05:00",
+      "ArrivalDateTime": "2020-04-01T17:18:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 73,
+      "FlightNumber": "1482",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 107,
+      "OriginStation": 13411,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T18:20:00",
+      "ArrivalDateTime": "2020-04-01T22:10:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 410,
+      "FlightNumber": "5",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 108,
+      "OriginStation": 13416,
+      "DestinationStation": 14938,
+      "DepartureDateTime": "2020-04-01T08:06:00",
+      "ArrivalDateTime": "2020-04-01T11:18:00",
+      "Carrier": 838,
+      "OperatingCarrier": 988,
+      "Duration": 372,
+      "FlightNumber": "6823",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 109,
+      "OriginStation": 14938,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T13:19:00",
+      "ArrivalDateTime": "2020-04-01T14:00:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 41,
+      "FlightNumber": "265",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 110,
+      "OriginStation": 13416,
+      "DestinationStation": 16177,
+      "DepartureDateTime": "2020-04-01T08:00:00",
+      "ArrivalDateTime": "2020-04-01T11:00:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 180,
+      "FlightNumber": "703",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 111,
+      "OriginStation": 16177,
+      "DestinationStation": 9461,
+      "DepartureDateTime": "2020-04-01T12:05:00",
+      "ArrivalDateTime": "2020-04-01T14:50:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 225,
+      "FlightNumber": "93",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 112,
+      "OriginStation": 9461,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T15:30:00",
+      "ArrivalDateTime": "2020-04-01T19:35:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 365,
+      "FlightNumber": "828",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 113,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T09:30:00",
+      "ArrivalDateTime": "2020-04-01T11:15:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 105,
+      "FlightNumber": "1643",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 114,
+      "OriginStation": 13416,
+      "DestinationStation": 10959,
+      "DepartureDateTime": "2020-04-01T05:30:00",
+      "ArrivalDateTime": "2020-04-01T08:52:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 142,
+      "FlightNumber": "371",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 115,
+      "OriginStation": 10959,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T11:35:00",
+      "ArrivalDateTime": "2020-04-01T15:03:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 448,
+      "FlightNumber": "328",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 116,
+      "OriginStation": 13411,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-02T08:31:00",
+      "ArrivalDateTime": "2020-04-02T10:15:00",
+      "Carrier": 1368,
+      "OperatingCarrier": 1793,
+      "Duration": 104,
+      "FlightNumber": "656",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 117,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T18:59:00",
+      "ArrivalDateTime": "2020-04-01T22:05:00",
+      "Carrier": 838,
+      "OperatingCarrier": 988,
+      "Duration": 366,
+      "FlightNumber": "7922",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 118,
+      "OriginStation": 13416,
+      "DestinationStation": 11420,
+      "DepartureDateTime": "2020-04-01T09:20:00",
+      "ArrivalDateTime": "2020-04-01T11:58:00",
+      "Carrier": 1793,
+      "OperatingCarrier": -607,
+      "Duration": 158,
+      "FlightNumber": "5530",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 119,
+      "OriginStation": 11420,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T13:50:00",
+      "ArrivalDateTime": "2020-04-01T15:35:00",
+      "Carrier": 1793,
+      "OperatingCarrier": -607,
+      "Duration": 105,
+      "FlightNumber": "5478",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 120,
+      "OriginStation": 16216,
+      "DestinationStation": 15265,
+      "DepartureDateTime": "2020-04-02T06:00:00",
+      "ArrivalDateTime": "2020-04-02T07:45:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 105,
+      "FlightNumber": "249",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 121,
+      "OriginStation": 15265,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T10:00:00",
+      "ArrivalDateTime": "2020-04-02T13:20:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 380,
+      "FlightNumber": "889",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 122,
+      "OriginStation": 13416,
+      "DestinationStation": 11560,
+      "DepartureDateTime": "2020-04-01T10:07:00",
+      "ArrivalDateTime": "2020-04-01T18:05:00",
+      "Carrier": 870,
+      "OperatingCarrier": 870,
+      "Duration": 298,
+      "FlightNumber": "700",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 123,
+      "OriginStation": 11560,
+      "DestinationStation": 13411,
+      "DepartureDateTime": "2020-04-01T19:17:00",
+      "ArrivalDateTime": "2020-04-01T21:51:00",
+      "Carrier": 870,
+      "OperatingCarrier": 870,
+      "Duration": 334,
+      "FlightNumber": "7",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 124,
+      "OriginStation": 13411,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-02T01:45:00",
+      "ArrivalDateTime": "2020-04-02T05:25:00",
+      "Carrier": 870,
+      "OperatingCarrier": 1169,
+      "Duration": 400,
+      "FlightNumber": "5817",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 125,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T15:35:00",
+      "ArrivalDateTime": "2020-04-01T17:06:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 91,
+      "FlightNumber": "2237",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 126,
+      "OriginStation": 13416,
+      "DestinationStation": 15947,
+      "DepartureDateTime": "2020-04-01T08:45:00",
+      "ArrivalDateTime": "2020-04-01T10:28:00",
+      "Carrier": 1793,
+      "OperatingCarrier": -607,
+      "Duration": 103,
+      "FlightNumber": "5414",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 127,
+      "OriginStation": 15947,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T10:59:00",
+      "ArrivalDateTime": "2020-04-01T12:20:00",
+      "Carrier": 1793,
+      "OperatingCarrier": -607,
+      "Duration": 81,
+      "FlightNumber": "5332",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 128,
+      "OriginStation": 13416,
+      "DestinationStation": 16177,
+      "DepartureDateTime": "2020-04-01T13:45:00",
+      "ArrivalDateTime": "2020-04-01T16:45:00",
+      "Carrier": 851,
+      "OperatingCarrier": 851,
+      "Duration": 180,
+      "FlightNumber": "1007",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 129,
+      "OriginStation": 13416,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T17:00:00",
+      "ArrivalDateTime": "2020-04-01T18:29:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 89,
+      "FlightNumber": "1757",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 130,
+      "OriginStation": 13416,
+      "DestinationStation": 10081,
+      "DepartureDateTime": "2020-04-01T11:32:00",
+      "ArrivalDateTime": "2020-04-01T20:08:00",
+      "Carrier": 870,
+      "OperatingCarrier": 870,
+      "Duration": 336,
+      "FlightNumber": "488",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 131,
+      "OriginStation": 10081,
+      "DestinationStation": 13411,
+      "DepartureDateTime": "2020-04-01T21:18:00",
+      "ArrivalDateTime": "2020-04-02T00:27:00",
+      "Carrier": 870,
+      "OperatingCarrier": 870,
+      "Duration": 369,
+      "FlightNumber": "177",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 132,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T08:00:00",
+      "ArrivalDateTime": "2020-04-01T11:13:00",
+      "Carrier": 881,
+      "OperatingCarrier": 833,
+      "Duration": 373,
+      "FlightNumber": "4741",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 133,
+      "OriginStation": 13416,
+      "DestinationStation": 16088,
+      "DepartureDateTime": "2020-04-01T13:42:00",
+      "ArrivalDateTime": "2020-04-01T14:39:00",
+      "Carrier": 1793,
+      "OperatingCarrier": -607,
+      "Duration": 57,
+      "FlightNumber": "5415",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 134,
+      "OriginStation": 16088,
+      "DestinationStation": 16216,
+      "DepartureDateTime": "2020-04-01T15:19:00",
+      "ArrivalDateTime": "2020-04-01T16:54:00",
+      "Carrier": 1793,
+      "OperatingCarrier": 1793,
+      "Duration": 95,
+      "FlightNumber": "2482",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 135,
+      "OriginStation": 13416,
+      "DestinationStation": 11773,
+      "DepartureDateTime": "2020-04-01T11:15:00",
+      "ArrivalDateTime": "2020-04-01T13:52:00",
+      "Carrier": 851,
+      "OperatingCarrier": -644,
+      "Duration": 157,
+      "FlightNumber": "3460",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 136,
+      "OriginStation": 11773,
+      "DestinationStation": 16177,
+      "DepartureDateTime": "2020-04-01T15:25:00",
+      "ArrivalDateTime": "2020-04-01T16:39:00",
+      "Carrier": 851,
+      "OperatingCarrier": -709,
+      "Duration": 74,
+      "FlightNumber": "2721",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 137,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T10:35:00",
+      "ArrivalDateTime": "2020-04-01T13:49:00",
+      "Carrier": 845,
+      "OperatingCarrier": 988,
+      "Duration": 374,
+      "FlightNumber": "3334",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 138,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T17:50:00",
+      "ArrivalDateTime": "2020-04-01T21:05:00",
+      "Carrier": 1169,
+      "OperatingCarrier": 1169,
+      "Duration": 375,
+      "FlightNumber": "9",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    },
+    {
+      "Id": 139,
+      "OriginStation": 13416,
+      "DestinationStation": 12240,
+      "DepartureDateTime": "2020-04-01T13:45:00",
+      "ArrivalDateTime": "2020-04-01T16:45:00",
+      "Carrier": 1464,
+      "OperatingCarrier": 1793,
+      "Duration": 360,
+      "FlightNumber": "7229",
+      "JourneyMode": "Flight",
+      "Directionality": "Outbound"
+    }
+  ],
+  "Carriers": [
+    {
+      "Id": 1169,
+      "Code": "HA",
+      "Name": "Hawaiian Airlines",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/HA.png",
+      "DisplayCode": "HA"
+    },
+    {
+      "Id": 1793,
+      "Code": "UA",
+      "Name": "United",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/UA.png",
+      "DisplayCode": "UA"
+    },
+    {
+      "Id": 854,
+      "Code": "AV",
+      "Name": "Avianca",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/AV.png",
+      "DisplayCode": "AV"
+    },
+    {
+      "Id": 1482,
+      "Code": "NZ",
+      "Name": "Air New Zealand",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/NZ.png",
+      "DisplayCode": "NZ"
+    },
+    {
+      "Id": 929,
+      "Code": "CA",
+      "Name": "Air China",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/CA.png",
+      "DisplayCode": "CA"
+    },
+    {
+      "Id": 851,
+      "Code": "AS",
+      "Name": "Alaska Airlines",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/AS.png",
+      "DisplayCode": "AS"
+    },
+    {
+      "Id": 1368,
+      "Code": "LH",
+      "Name": "Lufthansa",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/LH.png",
+      "DisplayCode": "LH"
+    },
+    {
+      "Id": 870,
+      "Code": "B6",
+      "Name": "jetBlue",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/default.png",
+      "DisplayCode": "B6"
+    },
+    {
+      "Id": -607,
+      "Code": "",
+      "Name": "SkyWest DBA United Express",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/default.png",
+      "DisplayCode": "!¡"
+    },
+    {
+      "Id": 1464,
+      "Code": "NH",
+      "Name": "ANA (All Nippon Airways)",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/NH.png",
+      "DisplayCode": "NH"
+    },
+    {
+      "Id": 988,
+      "Code": "DL",
+      "Name": "Delta",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/DL.png",
+      "DisplayCode": "DL"
+    },
+    {
+      "Id": 838,
+      "Code": "AF",
+      "Name": "Air France",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/AF.png",
+      "DisplayCode": "AF"
+    },
+    {
+      "Id": 1907,
+      "Code": "WS",
+      "Name": "WestJet",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/WS.png",
+      "DisplayCode": "WS"
+    },
+    {
+      "Id": 833,
+      "Code": "AA",
+      "Name": "American Airlines",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/AA.png",
+      "DisplayCode": "AA"
+    },
+    {
+      "Id": 881,
+      "Code": "BA",
+      "Name": "British Airways",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/BA.png",
+      "DisplayCode": "BA"
+    },
+    {
+      "Id": 282,
+      "Code": "MW",
+      "Name": "Mokulele Airlines",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/5Z.png",
+      "DisplayCode": "MW"
+    },
+    {
+      "Id": 175,
+      "Code": "9X",
+      "Name": "Southern Airways Express",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/3O.png",
+      "DisplayCode": "9X"
+    },
+    {
+      "Id": -644,
+      "Code": "",
+      "Name": "SkyWest Airlines/Alaska Airlines",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/default.png",
+      "DisplayCode": "!|"
+    },
+    {
+      "Id": -709,
+      "Code": "",
+      "Name": "Horizon Air AS Alaska Airlines",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/default.png",
+      "DisplayCode": "!;"
+    },
+    {
+      "Id": 845,
+      "Code": "AM",
+      "Name": "Aeromexico",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/AM.png",
+      "DisplayCode": "AM"
+    },
+    {
+      "Id": 857,
+      "Code": "AY",
+      "Name": "Finnair",
+      "ImageUrl": "https://s1.apideeplink.com/images/airlines/AY.png",
+      "DisplayCode": "AY"
+    }
+  ],
+  "Agents": [
+    {
+      "Id": 2628371,
+      "Name": "GotoGate",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/gtus.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 4036115,
+      "Name": "Travelgenio",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/tgus.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 4046777,
+      "Name": "Travelocity",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/tlcy.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 1960211,
+      "Name": "Mytrip",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/arus.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 3579049,
+      "Name": "Fiji Airways",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/paci.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "Airline"
+    },
+    {
+      "Id": 2186003,
+      "Name": "Cheaptickets",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/ctus.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 2727399,
+      "Name": "Hotwire.com",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/hotw.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": false,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 2485523,
+      "Name": "Flyfar",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/ffus.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 4132306,
+      "Name": "United",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/uair.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "Airline"
+    },
+    {
+      "Id": 3987731,
+      "Name": "Travel2Be",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/t2us.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 3038483,
+      "Name": "Kissandfly",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/kfus.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": false,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 4499219,
+      "Name": "Expedia",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/xpus.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 2407040,
+      "Name": "Exploretrip",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/etrp.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": false,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 2043155,
+      "Name": "Bravofly",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/bfus.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 3517039,
+      "Name": "Ovago",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/ovgo.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 3934928,
+      "Name": "Kiwi.com",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/skyp.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 2188212,
+      "Name": "Trip.com",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/cust.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 2695265,
+      "Name": "Hawaiian Airlines",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/hawa.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "Airline"
+    },
+    {
+      "Id": 3507594,
+      "Name": "Orbitz",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/orbz.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 2370323,
+      "Name": "eDreams",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/edus.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 4060493,
+      "Name": "Travel Merry",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/tram.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 2927891,
+      "Name": "JustFly",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/jfus.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "TravelAgent"
+    },
+    {
+      "Id": 1968835,
+      "Name": "Avianca",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/avic.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "Airline"
+    },
+    {
+      "Id": 2032127,
+      "Name": "British Airways",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/ba__.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "Airline"
+    },
+    {
+      "Id": 3182916,
+      "Name": "Lufthansa",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/luft.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "Airline"
+    },
+    {
+      "Id": 1930109,
+      "Name": "Aeromexico",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/aerm.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "Airline"
+    },
+    {
+      "Id": 1925012,
+      "Name": "Air China",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/achd.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "Airline"
+    },
+    {
+      "Id": 2492094,
+      "Name": "Finnair",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/finn.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "Airline"
+    },
+    {
+      "Id": 1939318,
+      "Name": "Air France",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/airf.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "Airline"
+    },
+    {
+      "Id": 1945950,
+      "Name": "ANA (All Nippon Airways)",
+      "ImageUrl": "https://s1.apideeplink.com/images/websites/alln.png",
+      "Status": "UpdatesComplete",
+      "OptimisedForMobile": true,
+      "Type": "Airline"
+    }
+  ],
+  "Places": [
+    {
+      "Id": 4224,
+      "ParentId": 115,
+      "Code": "KOA",
+      "Type": "City",
+      "Name": "Kona"
+    },
+    {
+      "Id": 6145,
+      "ParentId": 115,
+      "Code": "PDX",
+      "Type": "City",
+      "Name": "Portland"
+    },
+    {
+      "Id": 16388,
+      "ParentId": 6889,
+      "Code": "SMF",
+      "Type": "Airport",
+      "Name": "Sacramento International"
+    },
+    {
+      "Id": 520,
+      "ParentId": 115,
+      "Code": "ANC",
+      "Type": "City",
+      "Name": "Anchorage"
+    },
+    {
+      "Id": 2827,
+      "ParentId": 115,
+      "Code": "GEG",
+      "Type": "City",
+      "Name": "Spokane"
+    },
+    {
+      "Id": 5772,
+      "ParentId": 115,
+      "Code": "NYC",
+      "Type": "City",
+      "Name": "New York"
+    },
+    {
+      "Id": 3224,
+      "ParentId": 115,
+      "Code": "HNL",
+      "Type": "City",
+      "Name": "Honolulu"
+    },
+    {
+      "Id": 6936,
+      "ParentId": 115,
+      "Code": "SBA",
+      "Type": "City",
+      "Name": "Santa Barbara"
+    },
+    {
+      "Id": 11420,
+      "ParentId": 2515,
+      "Code": "EUG",
+      "Type": "Airport",
+      "Name": "Eugene"
+    },
+    {
+      "Id": 15265,
+      "ParentId": 6145,
+      "Code": "PDX",
+      "Type": "Airport",
+      "Name": "Portland"
+    },
+    {
+      "Id": 11560,
+      "ParentId": 2637,
+      "Code": "FLL",
+      "Type": "Airport",
+      "Name": "Fort Lauderdale International"
+    },
+    {
+      "Id": 12712,
+      "ParentId": 5772,
+      "Code": "JFK",
+      "Type": "Airport",
+      "Name": "New York John F. Kennedy"
+    },
+    {
+      "Id": 16177,
+      "ParentId": 6993,
+      "Code": "SEA",
+      "Type": "Airport",
+      "Name": "Seattle / Tacoma International"
+    },
+    {
+      "Id": 16307,
+      "ParentId": 7118,
+      "Code": "SJC",
+      "Type": "Airport",
+      "Name": "San Jose International"
+    },
+    {
+      "Id": 12596,
+      "ParentId": 3656,
+      "Code": "ITO",
+      "Type": "Airport",
+      "Name": "Hilo"
+    },
+    {
+      "Id": 5303,
+      "ParentId": 115,
+      "Code": "MRY",
+      "Type": "City",
+      "Name": "Carmel"
+    },
+    {
+      "Id": 2109,
+      "ParentId": 115,
+      "Code": "DEN",
+      "Type": "City",
+      "Name": "Denver"
+    },
+    {
+      "Id": 3656,
+      "ParentId": 115,
+      "Code": "ITO",
+      "Type": "City",
+      "Name": "Hilo"
+    },
+    {
+      "Id": 15947,
+      "ParentId": 6763,
+      "Code": "RNO",
+      "Type": "Airport",
+      "Name": "Reno / Tahoe"
+    },
+    {
+      "Id": 2637,
+      "ParentId": 115,
+      "Code": "FLL",
+      "Type": "City",
+      "Name": "Fort Lauderdale"
+    },
+    {
+      "Id": 5838,
+      "ParentId": 115,
+      "Code": "OGG",
+      "Type": "City",
+      "Name": "Kahului"
+    },
+    {
+      "Id": 7118,
+      "ParentId": 115,
+      "Code": "SJC",
+      "Type": "City",
+      "Name": "San Jose"
+    },
+    {
+      "Id": 10959,
+      "ParentId": 2109,
+      "Code": "DEN",
+      "Type": "Airport",
+      "Name": "Denver International"
+    },
+    {
+      "Id": 1871,
+      "ParentId": 115,
+      "Code": "SBP",
+      "Type": "City",
+      "Name": "San Luis Obispo"
+    },
+    {
+      "Id": 12240,
+      "ParentId": 3224,
+      "Code": "HNL",
+      "Type": "Airport",
+      "Name": "Honolulu International"
+    },
+    {
+      "Id": 6993,
+      "ParentId": 115,
+      "Code": "SEA",
+      "Type": "City",
+      "Name": "Seattle"
+    },
+    {
+      "Id": 2515,
+      "ParentId": 115,
+      "Code": "EUG",
+      "Type": "City",
+      "Name": "Eugene"
+    },
+    {
+      "Id": 1111,
+      "ParentId": 115,
+      "Code": "BOS",
+      "Type": "City",
+      "Name": "Boston"
+    },
+    {
+      "Id": 16216,
+      "ParentId": 7029,
+      "Code": "SFO",
+      "Type": "Airport",
+      "Name": "San Francisco International"
+    },
+    {
+      "Id": 16088,
+      "ParentId": 6908,
+      "Code": "SAN",
+      "Type": "Airport",
+      "Name": "San Diego International"
+    },
+    {
+      "Id": 14938,
+      "ParentId": 5838,
+      "Code": "OGG",
+      "Type": "Airport",
+      "Name": "Maui Kahului"
+    },
+    {
+      "Id": 10081,
+      "ParentId": 1111,
+      "Code": "BOS",
+      "Type": "Airport",
+      "Name": "Boston Logan International"
+    },
+    {
+      "Id": 13411,
+      "ParentId": 4458,
+      "Code": "LAS",
+      "Type": "Airport",
+      "Name": "Las Vegas Mccarran"
+    },
+    {
+      "Id": 16100,
+      "ParentId": 6936,
+      "Code": "SBA",
+      "Type": "Airport",
+      "Name": "Santa Barbara Municipal"
+    },
+    {
+      "Id": 16359,
+      "ParentId": 7163,
+      "Code": "SLC",
+      "Type": "Airport",
+      "Name": "Salt Lake City"
+    },
+    {
+      "Id": 13416,
+      "ParentId": 4464,
+      "Code": "LAX",
+      "Type": "Airport",
+      "Name": "Los Angeles International"
+    },
+    {
+      "Id": 6889,
+      "ParentId": 115,
+      "Code": "SAC",
+      "Type": "City",
+      "Name": "Sacramento"
+    },
+    {
+      "Id": 4458,
+      "ParentId": 115,
+      "Code": "LAS",
+      "Type": "City",
+      "Name": "Las Vegas"
+    },
+    {
+      "Id": 6763,
+      "ParentId": 115,
+      "Code": "RNO",
+      "Type": "City",
+      "Name": "Reno"
+    },
+    {
+      "Id": 4464,
+      "ParentId": 115,
+      "Code": "LAX",
+      "Type": "City",
+      "Name": "Los Angeles"
+    },
+    {
+      "Id": 115,
+      "Code": "US",
+      "Type": "Country",
+      "Name": "United States"
+    },
+    {
+      "Id": 16115,
+      "ParentId": 1871,
+      "Code": "SBP",
+      "Type": "Airport",
+      "Name": "San Luis Obispo County"
+    },
+    {
+      "Id": 4595,
+      "ParentId": 115,
+      "Code": "LIH",
+      "Type": "City",
+      "Name": "Kauai Island"
+    },
+    {
+      "Id": 7029,
+      "ParentId": 115,
+      "Code": "SFO",
+      "Type": "City",
+      "Name": "San Francisco"
+    },
+    {
+      "Id": 9461,
+      "ParentId": 520,
+      "Code": "ANC",
+      "Type": "Airport",
+      "Name": "Anchorage International"
+    },
+    {
+      "Id": 13176,
+      "ParentId": 4224,
+      "Code": "KOA",
+      "Type": "Airport",
+      "Name": "Kona"
+    },
+    {
+      "Id": 14329,
+      "ParentId": 5303,
+      "Code": "MRY",
+      "Type": "Airport",
+      "Name": "Carmel Monterey Peninsula"
+    },
+    {
+      "Id": 7163,
+      "ParentId": 115,
+      "Code": "SLC",
+      "Type": "City",
+      "Name": "Salt Lake City"
+    },
+    {
+      "Id": 6908,
+      "ParentId": 115,
+      "Code": "SAN",
+      "Type": "City",
+      "Name": "San Diego"
+    },
+    {
+      "Id": 11773,
+      "ParentId": 2827,
+      "Code": "GEG",
+      "Type": "Airport",
+      "Name": "Spokane International"
+    },
+    {
+      "Id": 13566,
+      "ParentId": 4595,
+      "Code": "LIH",
+      "Type": "Airport",
+      "Name": "Kauai Island Lihue"
+    }
+  ],
+  "Currencies": [
+    {
+      "Code": "USD",
+      "Symbol": "$",
+      "ThousandsSeparator": ",",
+      "DecimalSeparator": ".",
+      "SymbolOnLeft": true,
+      "SpaceBetweenAmountAndSymbol": false,
+      "RoundingCoefficient": 0,
+      "DecimalDigits": 2
+    }
+  ]
+}
