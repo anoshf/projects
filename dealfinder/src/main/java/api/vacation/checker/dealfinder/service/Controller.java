@@ -17,11 +17,6 @@ import static api.vacation.checker.dealfinder.util.DFUtils.verifyInputParams;
 @RestController
 public class Controller extends BaseController {
 
-    @GetMapping("/api/v2/{f}/{t}/{d}")
-    public ResponseEntity<?> browseDates3(HttpServletRequest request, @PathVariable("f") String f, @PathVariable("t") String t, @PathVariable("d") String d) {
-        return browseDates2(request, f, t, StringUtils.isNotBlank(d) ? d : defaultDate, defaultDuration, defaultSize);
-    }
-
     /*
     t - destination airport
     d - dates  'http://localhost:9000/api/v2/YVR?x=1-11&d=2020-07'
@@ -41,5 +36,11 @@ public class Controller extends BaseController {
             LOG.error(e.getMessage());
             return new ResponseEntity<>(setContentTypeHeaders(), HttpStatus.BAD_REQUEST);
         }
+    }
+
+
+    @GetMapping("/api/v2/{f}/{t}/{d}")
+    public ResponseEntity<?> browseDates3(HttpServletRequest request, @PathVariable("f") String f, @PathVariable("t") String t, @PathVariable("d") String d) {
+        return browseDates2(request, f, t, StringUtils.isNotBlank(d) ? d : defaultDate, defaultDuration, defaultSize);
     }
 }
